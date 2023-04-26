@@ -11,7 +11,6 @@ The **GazeSAM** is a human-computer interaction system that combines eye trackin
 
 
 
-<div>
   <div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="assets/3d1.gif" alt="GIF 1" width="49.1%" >
     <img src="assets/3d2.gif" alt="GIF 2" width="49.1%" >
@@ -23,14 +22,15 @@ The **GazeSAM** is a human-computer interaction system that combines eye trackin
     <img src="assets/track.gif" alt="GIF 2" width="49.1%" >
   </div>
 
-  <div style="display: flex; gap: 35px;">
+
+## Experiment Setting
+A user interface is provided as shown in the left image below and experiment setting is illustrated as the right image below.
+
+  <div style="display: flex; gap: 60px;">
       <img src="assets/ui.png?raw=true" width="60%" />
       <img src="assets/setting.png?raw=true" width="25.35%" /> 
   </div>
-</div>
 
-
-A user interface is provided as shown in the left image above and experiment setting is illustrated as the right image above.
 
 
 ## Installation
