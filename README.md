@@ -12,10 +12,11 @@ The **GazeSAM** is a human-computer interaction system that combines eye trackin
 
 
 <div>
-  <div style="display: flex; gap: 5px;">
+  <div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="assets/3d1.gif" alt="GIF 1">
     <img src="assets/3d2.gif" alt="GIF 2">
   </div>
+
 
   <div style="display: flex; gap: 5px;">
     <img src="assets/2d.gif" alt="GIF 1">
