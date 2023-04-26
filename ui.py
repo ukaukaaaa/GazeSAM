@@ -3,14 +3,13 @@ import time
 import numpy as np
 import cv2
 from segment_anything import sam_model_registry, SamPredictor
-from matplotlib import pyplot as plt
 from threading import *
 import SimpleITK as sitk
 
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QPixmap, QPainter, QPen, QImage
-from PyQt5.QtCore import Qt, QPoint, QRect, QTimer
+from PyQt5.QtCore import Qt, QPoint, QTimer
 from PyQt5 import uic, QtWidgets
 
 
