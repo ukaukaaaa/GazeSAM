@@ -3,7 +3,7 @@
 
 [Bin Wang](https://ukaukaaaa.github.io/), [Armstrong Aboah](https://aboah1994.github.io/), [Zheyuan Zhang](https://scholar.google.com/citations?user=lHtpCNcAAAAJ&hl=en), [Ulas Bagci](https://bagcilab.com/)
 
-[[`Paper`](https://arxiv.org/pdf/2304.13844.pdf)] [[`Demo (Youtube)`](https://youtu.be/wRuhTUdXWEk)] [[`Demo (bilibili)`](https://www.bilibili.com/video/BV1ph4y1n7L3/?spm_id_from=333.999.0.0&vd_source=10d1ba7b7b7dd7299ce842c68629cb8c)] [[`BibTeX`](#citing)]
+[[`Paper`](https://arxiv.org/pdf/2304.13844.pdf)] [[`Demo (Youtube)`](https://youtu.be/wRuhTUdXWEk)] [[`Demo (bilibili)`](https://www.bilibili.com/video/BV1u14y1Z7rT/)] [[`BibTeX`](#citing)]
 
 ![framework](assets/framework.png)
 
