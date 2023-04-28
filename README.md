@@ -3,7 +3,7 @@
 
 [Bin Wang](https://ukaukaaaa.github.io/), [Armstrong Aboah](https://aboah1994.github.io/), [Zheyuan Zhang](https://scholar.google.com/citations?user=lHtpCNcAAAAJ&hl=en), [Ulas Bagci](https://bagcilab.com/)
 
-[[`Paper`](https://ai.facebook.com/research/publications/segment-anything/)] [[`Demo (Youtube)`](https://youtu.be/wRuhTUdXWEk)] [[`Demo (bilibili)`](https://www.bilibili.com/video/BV1ph4y1n7L3/?spm_id_from=333.999.0.0&vd_source=10d1ba7b7b7dd7299ce842c68629cb8c)] [[`BibTeX`](#citing)]
+[[`Paper`](https://arxiv.org/pdf/2304.13844.pdf)] [[`Demo (Youtube)`](https://youtu.be/wRuhTUdXWEk)] [[`Demo (bilibili)`](https://www.bilibili.com/video/BV1ph4y1n7L3/?spm_id_from=333.999.0.0&vd_source=10d1ba7b7b7dd7299ce842c68629cb8c)] [[`BibTeX`](#citing)]
 
 ![framework](assets/framework.png)
 
@@ -82,10 +82,12 @@ The model is licensed under the [Apache 2.0 license](LICENSE). -->
 ## Citing
 
 ```
-@article{kirillov2023segany,
-  title={Segment Anything},
-  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a}r, Piotr and Girshick, Ross},
-  journal={arXiv:2304.02643},
-  year={2023}
+@misc{wang2023gazesam,
+      title={GazeSAM: What You See is What You Segment}, 
+      author={Bin Wang and Armstrong Aboah and Zheyuan Zhang and Ulas Bagci},
+      year={2023},
+      eprint={2304.13844},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
