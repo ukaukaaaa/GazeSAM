@@ -82,12 +82,10 @@ The model is licensed under the [Apache 2.0 license](LICENSE). -->
 ## Citing
 
 ```
-@misc{wang2023gazesam,
-      title={GazeSAM: What You See is What You Segment}, 
-      author={Bin Wang and Armstrong Aboah and Zheyuan Zhang and Ulas Bagci},
-      year={2023},
-      eprint={2304.13844},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2023gazesam,
+  title={GazeSAM: What You See is What You Segment},
+  author={Wang, Bin and Aboah, Armstrong and Zhang, Zheyuan and Bagci, Ulas},
+  journal={arXiv preprint arXiv:2304.13844},
+  year={2023}
 }
 ```
